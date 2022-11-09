@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MoCalendar</string>
+    <string name="event_icon">Event Icon</string>
+    <string name="event_type">Event Type</string>
+    <!-- Event Types -->
+    <string name="event">Event</string>
+    <string name="assignment">Assignment</string>
+    <string name="school">Class</string>
+    <string name="science">Lab</string>
+    <string name="quiz">Exam</string>
+    <string name="essay">Essay</string>
+    <string name="code">Programming Assignment</string>
+    <string name="book">Reading Assignment</string>
+    <string name="groups">Club</string>
+    <string name="meeting_room">Office Hours</string>
+    <string name="sports_soccer">Athletic Practice</string>
+    <string name="music_note">Music Practice</string>
+    <string name="trophy">Competition</string>
+    <string name="present">Presentation</string>
+    <string name="holiday">Holiday</string>
+</resources>
